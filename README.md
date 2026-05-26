@@ -16,7 +16,7 @@
 
 <p align="center">
   I work on how data, algorithms, and organizations interact in real settings.<br>
-  My research connects machine learning, optimization, and digital transformation with applied problems in agriculture, organizations, and socio-technical systems.
+  My research connects statistics, machine learning, optimization, and digital transformation with applied problems in economic contexts, such as: agriculture, organizations, and socio-technical systems.
 </p>
 
 ---
@@ -31,6 +31,7 @@ research_identity:
     - optimization under uncertainty
     - data analytics
     - digital transformation
+    - economics
   orientation:
     - research
     - teaching
@@ -60,8 +61,10 @@ research_identity:
 
 <details>
   <summary><b>Optimization, Operations Research & Decision Systems</b></summary>
-
+- **2025** — *Optimizing cocoa biomass density through integrated irrigation and drainage management under water stress: A linear programming approach*. **Ecological Informatics**. [DOI](https://doi.org/10.1016/j.ecoinf.2025.103262)
 - **2024** — *A literature review on Lean healthcare: implementation strategies, challenges, and future research directions*. **Cogent Engineering**. [DOI](https://doi.org/10.1080/23311916.2024.2411857)
+- **2024** — *Efficiency Analysis of a Surgery Roadmap Based on Lean Manufacturing Techniques, Simulation, and Data Envelopment Analysis*. **Data Envelopment Analysis (DEA) Methods for Maximizing Efficiency**. [DOI](https://doi.org/10.4018/979-8-3693-0255-2.ch004)
+
 - **2022** — *Multistage Stochastic Programming to Support Water Allocation Decision-Making Process in Agriculture: A Literature Review*. [DOI](https://doi.org/10.3390/IOCAG2022-12307)
 - **2019** — *Aplicación de la Búsqueda Armónica para el problema de formación de celdas de manufactura*. **Inge CUC**. [DOI](https://doi.org/10.17981/ingecuc.15.2.2019.15)
 
