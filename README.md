@@ -81,7 +81,7 @@ research_identity:
 
 <details>
   <summary><b>Organizations, Society & Socio-technical Systems</b></summary>
-
+* **2026** — *Brewing degrowth: regional adaptations to COVID-19 in the craft beer sector*. **Contemporary Social Science**. [DOI](https://doi.org/10.1080/21582041.2026.2679515)
 - **2026** — *Coping with the COVID-19 Crisis Through Faith-Based Strategies: A Multiple-Group Confirmatory Factor Analysis in Colombia*. **Journal of Religion and Health**. [DOI](https://doi.org/10.1007/s10943-025-02538-6)
 - **2022** — *Responsabilidad social e identificación organizacional: implicaciones para la gerencia de los recursos humanos*. **Revista Venezolana de Gerencia**. [DOI](https://doi.org/10.52080/rvgluz.27.99.24)
 - **2020** — *Sostenibilidad, stakeholders y crisis de empresa: un análisis estructurado de percepciones*. **Suma de Negocios**. [DOI](https://doi.org/10.14349/sumneg/2020.v11.n24.a7)
