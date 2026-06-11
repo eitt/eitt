@@ -41,6 +41,11 @@ research_identity:
 
 > Peer-reviewed journal articles.
 
+<div style="margin-bottom: 15px;">
+  <button onclick="document.querySelectorAll('details').forEach(d => d.open = true)" style="cursor: pointer; padding: 5px 10px; margin-right: 5px; border-radius: 4px; border: 1px solid #ccc; background: #f6f8fa;">Expand All</button>
+  <button onclick="document.querySelectorAll('details').forEach(d => d.open = false)" style="cursor: pointer; padding: 5px 10px; border-radius: 4px; border: 1px solid #ccc; background: #f6f8fa;">Collapse All</button>
+</div>
+
 <details>
   <summary><b>Applied AI, Machine Learning & Analytics</b></summary>
 
@@ -61,10 +66,10 @@ research_identity:
 
 <details>
   <summary><b>Optimization, Operations Research & Decision Systems</b></summary>
+
 - **2025** — *Optimizing cocoa biomass density through integrated irrigation and drainage management under water stress: A linear programming approach*. **Ecological Informatics**. [DOI](https://doi.org/10.1016/j.ecoinf.2025.103262)
 - **2024** — *A literature review on Lean healthcare: implementation strategies, challenges, and future research directions*. **Cogent Engineering**. [DOI](https://doi.org/10.1080/23311916.2024.2411857)
 - **2024** — *Efficiency Analysis of a Surgery Roadmap Based on Lean Manufacturing Techniques, Simulation, and Data Envelopment Analysis*. **Data Envelopment Analysis (DEA) Methods for Maximizing Efficiency**. [DOI](https://doi.org/10.4018/979-8-3693-0255-2.ch004)
-
 - **2022** — *Multistage Stochastic Programming to Support Water Allocation Decision-Making Process in Agriculture: A Literature Review*. [DOI](https://doi.org/10.3390/IOCAG2022-12307)
 - **2019** — *Aplicación de la Búsqueda Armónica para el problema de formación de celdas de manufactura*. **Inge CUC**. [DOI](https://doi.org/10.17981/ingecuc.15.2.2019.15)
 
@@ -81,7 +86,8 @@ research_identity:
 
 <details>
   <summary><b>Organizations, Society & Socio-technical Systems</b></summary>
-* **2026** — *Brewing degrowth: regional adaptations to COVID-19 in the craft beer sector*. **Contemporary Social Science**. [DOI](https://doi.org/10.1080/21582041.2026.2679515)
+
+- **2026** — *Brewing degrowth: regional adaptations to COVID-19 in the craft beer sector*. **Contemporary Social Science**. [DOI](https://doi.org/10.1080/21582041.2026.2679515)
 - **2026** — *Coping with the COVID-19 Crisis Through Faith-Based Strategies: A Multiple-Group Confirmatory Factor Analysis in Colombia*. **Journal of Religion and Health**. [DOI](https://doi.org/10.1007/s10943-025-02538-6)
 - **2022** — *Responsabilidad social e identificación organizacional: implicaciones para la gerencia de los recursos humanos*. **Revista Venezolana de Gerencia**. [DOI](https://doi.org/10.52080/rvgluz.27.99.24)
 - **2020** — *Sostenibilidad, stakeholders y crisis de empresa: un análisis estructurado de percepciones*. **Suma de Negocios**. [DOI](https://doi.org/10.14349/sumneg/2020.v11.n24.a7)
