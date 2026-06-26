@@ -186,8 +186,18 @@
     },
     {
       "path": "manifest.json",
-      "sha256": "b8e42a54348b30487d43f4b927437a5cbc06b4b15de9751594f06c0ff2a41515",
+      "sha256": "71bb8ce8dfc84a0b598e41ada8ce921011d5e4a7fa50ea1cf2693b483ced0c6f",
       "bytes": 15949
+    },
+    {
+      "path": "report/README.md",
+      "sha256": "905ab320b6e9624435bbbe811d6bf53bb6d75ae044870c9ff3b4ee7e8e4137e3",
+      "bytes": 589
+    },
+    {
+      "path": "report/brewery_conflict_preliminary_report.tex",
+      "sha256": "7bc5f8f14d5cecea90012874bbac0a00acd328942d4a1934e3e1551be9e47b7b",
+      "bytes": 17697
     },
     {
       "path": "search/query_strings.txt",
