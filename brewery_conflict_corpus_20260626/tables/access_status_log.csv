@@ -14,3 +14,11 @@ NEWS_2024_AR_ogham-bariloche-noise_N006,landing_page_only,metadata_only_capture_
 NEWS_2017_AR_boom-cervecerias-ruidos_N007,landing_page_only,metadata_only_capture_blocked,no,Spanish-language craft brewery source; limited snippet access lowers confidence.
 NEWS_2022_BR_delta-porto-alegre-noise_N008,landing_page_only,metadata_only_capture_blocked,no,Portuguese-language craft brewery noise/legal conflict source with original and English equivalent.
 NEWS_2020_BR_belorizontina-contaminacao_N009,landing_page_only,metadata_only_capture_blocked,no,Portuguese-language craft beer contamination source with original and English equivalent.
+REPORT_2024_FR_microbrasseries-eau-effluents_R003,unknown,metadata_only_full_text_needed,yes,"French microbrewery water/effluent guide; PDF URL identified, represented as metadata/evidence record for review."
+REPORT_2023_FR_biere-impact-eau_R004,landing_page_only,metadata_only_capture_blocked,no,"French contextual source; not a specific conflict case, included to broaden language coverage on beer water-use mechanisms."
+NEWS_2019_NL_davo-brouwerij-overlast_N010,landing_page_only,metadata_only_capture_blocked,no,Dutch craft brewery-pub nuisance source with original and English equivalent.
+LEGAL_2021_NL_biercafe-geluidsoverlast_L001,open_access,html_saved,no,Dutch legal/policy source; HTML decision represented as metadata Markdown with original and English excerpt.
+REPORT_2024_BE_vlarem-microbrouwerijen-afvalwater_R005,open_access,html_saved,no,Dutch-language Flemish regulatory source for microbrewery wastewater classification.
+NEWS_2026_DE_bier-aus-klaeranlage_N011,landing_page_only,metadata_only_capture_blocked,no,"German-language water reuse source; not a dispute, included for drought/water-pressure context."
+REPORT_2019_IT_effluenti-industria-birra_R006,landing_page_only,metadata_only_capture_blocked,no,Italian contextual wastewater source; not a specific conflict case.
+REPORT_2025_IT_molestia-movida-rumore_R007,landing_page_only,metadata_only_capture_blocked,no,"Italian contextual nightlife-noise legal source; included cautiously for beer-pub/craft-venue comparison, not as a brewery-specific case."

@@ -34,3 +34,7 @@ Some records are metadata-only or news-only. Allegations about pollution, health
 The multilingual extension strengthens Latin American coverage. Spanish-language sources add the Mexicali/Constellation Brands water conflict, a Spanish scholarly record about organized resistance and public consultation, and Argentine craft-brewery noise/odor disputes. Portuguese-language sources add a Porto Alegre craft-brewery neighborhood noise/legal conflict and the Brazilian Backer/Belorizontina craft-beer contamination case.
 
 For non-English records, the corpus preserves original-language titles and short excerpts plus English equivalents. The English equivalents are for coding/navigation and should not replace the original sources for quotation or legal interpretation.
+
+## Expanded European-language additions
+
+The corpus now adds French, Dutch, German, and Italian records. Dutch records provide the strongest added conflict-specific evidence, including brewery-pub nuisance reporting and an administrative-law record concerning a beer-café operating permit and noise complaints. French and Italian records mainly strengthen water, effluent, and nightlife-noise context. A German record adds water-reuse and drought-adaptation context for brewing. These additions widen language coverage, but several are contextual rather than direct conflict cases and should be used cautiously.

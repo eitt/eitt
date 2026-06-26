@@ -19,3 +19,7 @@ Files use `SOURCECATEGORY_YEAR_COUNTRY_SHORTTITLE_ID` names. The main evidence t
 ## Multilingual extension
 
 The corpus was extended with Spanish and Portuguese records. For non-English sources, the original title and a short original-language evidence excerpt are retained alongside an English equivalent in `tables/conflict_evidence_table.csv`, `tables/multilingual_translation_table.csv`, and each source Markdown record. Existing English records were preserved.
+
+## Expanded language coverage
+
+The corpus now includes English, Spanish, Portuguese, French, Dutch, German, and Italian records. New European-language additions include microbrewery water/effluent guidance, Dutch brewery-pub nuisance and legal-permit records, German drought/water-reuse context, and Italian effluent and nightlife-noise context. Some additions are contextual rather than conflict-specific and are marked with lower confidence where appropriate.
