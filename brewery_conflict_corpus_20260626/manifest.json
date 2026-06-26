@@ -1,0 +1,456 @@
+{
+  "created": "2026-06-26",
+  "corpus_directory": "brewery_conflict_corpus_20260626",
+  "source_records": [
+    {
+      "source_id": "NEWS_2025_MX_heineken-yucatan-water_N001",
+      "path": "sources/news/NEWS_2025_MX_heineken-yucatan-water_N001.md",
+      "source_url": "https://www.theguardian.com/global-development/2025/oct/04/maya-heineken-brewery-yucatan-mexico-cenote-ring",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "landing_page_only",
+      "download_status": "metadata_only_capture_blocked",
+      "sha256": "94cb2b32e20bcd65a95327cd0e3d9505bbfa00c693b28a0376405e5d15190366",
+      "limitations": "News page represented as metadata/evidence summary only; no full-page PDF capture stored.",
+      "original_language": "English"
+    },
+    {
+      "source_id": "NEWS_2025_IN_chhatarpur-toxic-discharge_N002",
+      "path": "sources/news/NEWS_2025_IN_chhatarpur-toxic-discharge_N002.md",
+      "source_url": "https://timesofindia.indiatimes.com/city/bhopal/ngt-orders-probe-into-toxic-discharge-from-chhatarpur-brewery/articleshow/124729061.cms",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "landing_page_only",
+      "download_status": "metadata_only_capture_blocked",
+      "sha256": "0a891677e6f715d8500a3ab84cdd65f78e424553ff0cb4ef778a3d1dde81b11b",
+      "limitations": "News page represented as metadata/evidence summary only; allegations require official case-file confirmation.",
+      "original_language": "English"
+    },
+    {
+      "source_id": "NEWS_2025_US_island-brewing-noise_N003",
+      "path": "sources/news/NEWS_2025_US_island-brewing-noise_N003.md",
+      "source_url": "https://www.noozhawk.com/carpinteria-residents-sue-city-island-brewing-co-over-live-music/",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "landing_page_only",
+      "download_status": "metadata_only_capture_blocked",
+      "sha256": "b498c14878020ae05ab214655f99b7446bfed950ba4c2208929e19ea142f6e19",
+      "limitations": "News page represented as metadata/evidence summary only; court filings would strengthen legal outcome coding.",
+      "original_language": "English"
+    },
+    {
+      "source_id": "NEWS_2019_US_maui-clean-water-brewers_N004",
+      "path": "sources/news/NEWS_2019_US_maui-clean-water-brewers_N004.md",
+      "source_url": "https://www.fooddive.com/news/how-a-supreme-court-case-about-water-pollution-could-impact-craft-beer/565176/",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "landing_page_only",
+      "download_status": "metadata_only_capture_blocked",
+      "sha256": "c7104beaa66bff090aa4636cf5a8aa170c7bb687b323531f8ad9478aff9f2876",
+      "limitations": "Included because it documents brewery participation in a water-pollution legal conflict, not a consumer beer recommendation.",
+      "original_language": "English"
+    },
+    {
+      "source_id": "ARTICLE_2017_US_neighborhood-change-pint_A001",
+      "path": "sources/metadata_only/ARTICLE_2017_US_neighborhood-change-pint_A001.md",
+      "source_url": "https://jmbarajas.com/publication/beer-chapter/beer-chapter.pdf",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "unknown",
+      "download_status": "metadata_only_full_text_needed",
+      "sha256": "a53010ba5616dab2376d39fc235fe33daca9819ad9520eb927bfc9476e947170",
+      "limitations": "PDF URL identified but not downloaded because automated retrieval returned a 403/tunnel error in this environment; coding uses visible metadata/snippets and needs direct full-text confirmation.",
+      "original_language": "English"
+    },
+    {
+      "source_id": "ARTICLE_2018_US_craft-breweries-local-characteristics_A002",
+      "path": "sources/metadata_only/ARTICLE_2018_US_craft-breweries-local-characteristics_A002.md",
+      "source_url": "https://arxiv.org/pdf/1802.03140",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "unknown",
+      "download_status": "metadata_only_full_text_needed",
+      "sha256": "2549329c4f0504cc9c60c666d2eed177cd38895da047d7cb2b47d6a3fc8f9090",
+      "limitations": "PDF URL identified but not downloaded because automated retrieval returned a 403/tunnel error in this environment; coding uses visible metadata/snippets and needs direct full-text confirmation.",
+      "original_language": "English"
+    },
+    {
+      "source_id": "REPORT_2020_US_brewery-pollution-prevention_R001",
+      "path": "sources/metadata_only/REPORT_2020_US_brewery-pollution-prevention_R001.md",
+      "source_url": "https://portal.ct.gov/-/media/DEEP/p2/business_industry/Breweries/P2-Brewery-Factsheet_Oct2020EPA.pdf",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "unknown",
+      "download_status": "metadata_only_full_text_needed",
+      "sha256": "f8b1086ff0c889222c56137f228cebc4b38b104ff24f69d562a5464a850934e9",
+      "limitations": "PDF URL identified but not downloaded because automated retrieval returned a 403/tunnel error in this environment; coding uses visible metadata/snippets and needs direct full-text confirmation.",
+      "original_language": "English"
+    },
+    {
+      "source_id": "REPORT_2020_US_brewery-wastewater-bmps_R002",
+      "path": "sources/metadata_only/REPORT_2020_US_brewery-wastewater-bmps_R002.md",
+      "source_url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/2020-01/wastewater-bmps-breweries.pdf",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "unknown",
+      "download_status": "metadata_only_full_text_needed",
+      "sha256": "f035fe885c077cf6a727ca808077f08bb03c7db77a4d67c108f016873d40ee9e",
+      "limitations": "PDF URL identified but not downloaded because automated retrieval returned a 403/tunnel error in this environment; coding uses visible metadata/snippets and needs direct full-text confirmation.",
+      "original_language": "English"
+    },
+    {
+      "source_id": "ARTICLE_2026_GLOBAL_small-breweries-footprints_A003",
+      "path": "sources/metadata_only/ARTICLE_2026_GLOBAL_small-breweries-footprints_A003.md",
+      "source_url": "https://www.mdpi.com/2076-3298/13/3/164",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "unknown",
+      "download_status": "metadata_only_full_text_needed",
+      "sha256": "3b827d68a99d359421bfb59156f2c73935d5aa3c535ee2172c3110f629798034",
+      "limitations": "Full text not downloaded; table coding is based on metadata and abstract/snippet only. Full text access is needed for confirmation.",
+      "original_language": "English"
+    },
+    {
+      "source_id": "NEWS_2019_MX_constellation-mexicali-water_N005",
+      "path": "sources/news/NEWS_2019_MX_constellation-mexicali-water_N005.md",
+      "source_url": "https://dialogue.earth/es/agua/26653-en-baja-california-escogen-entre-agua-y-cerveza/",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "landing_page_only",
+      "download_status": "metadata_only_capture_blocked",
+      "sha256": "fc316c2c5ae402f81c4b7ab98a715fddce0896ea08dd51ed21d7ea5aee348b29",
+      "limitations": "Spanish-language source; original title/excerpt and English equivalent included. Page represented as metadata/evidence Markdown only.",
+      "original_language": "Spanish"
+    },
+    {
+      "source_id": "ARTICLE_2021_MX_resistencias-cervecera-mexicali_A004",
+      "path": "sources/metadata_only/ARTICLE_2021_MX_resistencias-cervecera-mexicali_A004.md",
+      "source_url": "https://revistas.usantotomas.edu.co/index.php/campos/article/view/7665",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "abstract_only",
+      "download_status": "metadata_only_full_text_needed",
+      "sha256": "d81b253b3d4c97c4502af7bd5fccab2bc2a6831e4b99f4005d426231334a3e61",
+      "limitations": "Spanish scholarly record; full text not downloaded. Coding uses visible metadata/snippet and needs full-text confirmation.",
+      "original_language": "Spanish"
+    },
+    {
+      "source_id": "NEWS_2024_AR_ogham-bariloche-noise_N006",
+      "path": "sources/news/NEWS_2024_AR_ogham-bariloche-noise_N006.md",
+      "source_url": "https://baribache3000.com.ar/nota/1359/vecino-historico-de-bariloche-denuncia-danos-a-la-salud-por-ruidos-de-cerveceria-sin-habilitacion-adecuada/",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "landing_page_only",
+      "download_status": "metadata_only_capture_blocked",
+      "sha256": "2ea013fc2bba4720e4b06cba48a69f6a1cd29ad6ea252580ec51c10153746e1e",
+      "limitations": "Spanish-language craft brewery noise source; original title/excerpt and English equivalent included.",
+      "original_language": "Spanish"
+    },
+    {
+      "source_id": "NEWS_2017_AR_boom-cervecerias-ruidos_N007",
+      "path": "sources/news/NEWS_2017_AR_boom-cervecerias-ruidos_N007.md",
+      "source_url": "https://www.clarin.com/ciudades/cara-boom-cervecerias-crecen-quejas-ruidos-molestos_0_HJnVTnkIz.html",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "landing_page_only",
+      "download_status": "metadata_only_capture_blocked",
+      "sha256": "1ef38d2614dc02fb7190dc4c92c7c3cd6f6fd8e71589eb4f8b2c8efce984040f",
+      "limitations": "Spanish-language craft brewery source; limited snippet access lowers confidence.",
+      "original_language": "Spanish"
+    },
+    {
+      "source_id": "NEWS_2022_BR_delta-porto-alegre-noise_N008",
+      "path": "sources/news/NEWS_2022_BR_delta-porto-alegre-noise_N008.md",
+      "source_url": "https://www.jornaldocomercio.com/_conteudo/colunas/pensar_a_cidade/2022/05/846355-moradores-e-cervejaria-no-4-distrito-entram-em-conflito.html",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "landing_page_only",
+      "download_status": "metadata_only_capture_blocked",
+      "sha256": "91fa71df384d603b1053991f334508585debb3973a5296f00e0b27c10570a62b",
+      "limitations": "Portuguese-language craft brewery noise/legal conflict source with original and English equivalent.",
+      "original_language": "Portuguese"
+    },
+    {
+      "source_id": "NEWS_2020_BR_belorizontina-contaminacao_N009",
+      "path": "sources/news/NEWS_2020_BR_belorizontina-contaminacao_N009.md",
+      "source_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2020-01/ministerio-confirma-contaminacao-da-agua-na-producao-de-cervejas",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "landing_page_only",
+      "download_status": "metadata_only_capture_blocked",
+      "sha256": "179bac07eaac20462b9356013efcd95821eb3a92d02735cceeec08d3960dbcd6",
+      "limitations": "Portuguese-language craft beer contamination source with original and English equivalent.",
+      "original_language": "Portuguese"
+    },
+    {
+      "source_id": "REPORT_2024_FR_microbrasseries-eau-effluents_R003",
+      "path": "sources/reports/REPORT_2024_FR_microbrasseries-eau-effluents_R003.md",
+      "source_url": "https://enilea.fr/uploads/2024/03/GUIDE-METHODOLOGIQUE-Projet_beer_EAU_EFFLUENT_BRASSERIE_ENIL.pdf",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "unknown",
+      "download_status": "metadata_only_full_text_needed",
+      "sha256": "578406eeeb612955cd5281ddb449fb6b8c0edfdd25dbab964aa243bba6cd04d0",
+      "limitations": "French microbrewery water/effluent guide; PDF URL identified, represented as metadata/evidence record for review.",
+      "original_language": "French"
+    },
+    {
+      "source_id": "REPORT_2023_FR_biere-impact-eau_R004",
+      "path": "sources/reports/REPORT_2023_FR_biere-impact-eau_R004.md",
+      "source_url": "https://blog.sowefund.com/consommation-deau-et-transports-comment-ameliorer-limpact-qua-lindustrie-de-la-biere-sur-lenvironnement/",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "landing_page_only",
+      "download_status": "metadata_only_capture_blocked",
+      "sha256": "59f5aa0f418f67e7f6b3daf58ce00ca3cba97982c73472d8ed4e3fd1bd68567f",
+      "limitations": "French contextual source; not a specific conflict case, included to broaden language coverage on beer water-use mechanisms.",
+      "original_language": "French"
+    },
+    {
+      "source_id": "NEWS_2019_NL_davo-brouwerij-overlast_N010",
+      "path": "sources/news/NEWS_2019_NL_davo-brouwerij-overlast_N010.md",
+      "source_url": "https://www.salland1.nl/omwonenden-zijn-overlast-van-de-davo-brouwerij-pub-helemaal-zat/",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "landing_page_only",
+      "download_status": "metadata_only_capture_blocked",
+      "sha256": "7fe8153a0bcd07b40c49a6410855064f4aa515146ce72a877db819526c9d2b54",
+      "limitations": "Dutch craft brewery-pub nuisance source with original and English equivalent.",
+      "original_language": "Dutch"
+    },
+    {
+      "source_id": "LEGAL_2021_NL_biercafe-geluidsoverlast_L001",
+      "path": "sources/legal_policy/LEGAL_2021_NL_biercafe-geluidsoverlast_L001.md",
+      "source_url": "https://www.raadvanstate.nl/%40127557/202007160-1-a3/",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "open_access",
+      "download_status": "html_saved",
+      "sha256": "0e4bc8263031dcd407b0d2deb526d388e1e1ad75d73c057202309ee9f6186549",
+      "limitations": "Dutch legal/policy source; HTML decision represented as metadata Markdown with original and English excerpt.",
+      "original_language": "Dutch"
+    },
+    {
+      "source_id": "REPORT_2024_BE_vlarem-microbrouwerijen-afvalwater_R005",
+      "path": "sources/reports/REPORT_2024_BE_vlarem-microbrouwerijen-afvalwater_R005.md",
+      "source_url": "https://omgeving.vlaanderen.be/nl/indeling-afvalwater-microbrouwerijen-vlarem-rubriek-34",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "open_access",
+      "download_status": "html_saved",
+      "sha256": "a8ac88ec34f40e183abb81026995ac6508a53b0192d2fd2666ef9e1dbfbc0317",
+      "limitations": "Dutch-language Flemish regulatory source for microbrewery wastewater classification.",
+      "original_language": "Dutch"
+    },
+    {
+      "source_id": "NEWS_2026_DE_bier-aus-klaeranlage_N011",
+      "path": "sources/news/NEWS_2026_DE_bier-aus-klaeranlage_N011.md",
+      "source_url": "https://www.br.de/nachrichten/bayern/ressource-wasser-wird-das-bier-der-zukunft-aus-urin-gebraut%2CVJh74eO",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "landing_page_only",
+      "download_status": "metadata_only_capture_blocked",
+      "sha256": "03146efd8e89dfc63003d20c37d3811ce64fa457c6845350266e55dbbbfc1e21",
+      "limitations": "German-language water reuse source; not a dispute, included for drought/water-pressure context.",
+      "original_language": "German"
+    },
+    {
+      "source_id": "REPORT_2019_IT_effluenti-industria-birra_R006",
+      "path": "sources/reports/REPORT_2019_IT_effluenti-industria-birra_R006.md",
+      "source_url": "https://condorchem.com/it/blog/trattamento-degli-effluenti-nell-industria-della-birra-e-valorizzazione-dei-suoi-residui-liquidi/",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "landing_page_only",
+      "download_status": "metadata_only_capture_blocked",
+      "sha256": "177523f001b5d2a8ea1fc914d7824d37abd442fe2a1a615a8a7902a6ff2afa3c",
+      "limitations": "Italian contextual wastewater source; not a specific conflict case.",
+      "original_language": "Italian"
+    },
+    {
+      "source_id": "REPORT_2025_IT_molestia-movida-rumore_R007",
+      "path": "sources/legal_policy/REPORT_2025_IT_molestia-movida-rumore_R007.md",
+      "source_url": "https://www.lexambiente.com/index.php/materie/rumore/dottrina180/rumore-movida-e-inquinamento-acustico-lincertezza-della-cassazione",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "landing_page_only",
+      "download_status": "metadata_only_capture_blocked",
+      "sha256": "f93e32a0bc18441f65e0164ef0b28e7ef9e85fa3be08bc28de1ce1a4fb39b6cd",
+      "limitations": "Italian contextual nightlife-noise legal source; included cautiously for beer-pub/craft-venue comparison, not as a brewery-specific case.",
+      "original_language": "Italian"
+    }
+  ],
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "8413a2aceccc59c223bcd0846c93f81e5f3e24878ec90e383e820eb3b3f7fc53",
+      "bytes": 2274
+    },
+    {
+      "path": "bibliography/references.bib",
+      "sha256": "0c30fa81cd1b5fce396d837b3df0d76761bab13da80ffff112c90a5ea9a9fab8",
+      "bytes": 9711
+    },
+    {
+      "path": "bibliography/references.ris",
+      "sha256": "dcb9382b1600b7a3a62f4eb8cf98e7ada1038c6b772b1840ae3acda6dfcf10b2",
+      "bytes": 8275
+    },
+    {
+      "path": "manifest.json",
+      "sha256": "9711c7f21d2295c8c7159573ff79b2a268e687a571650d55bcbd6f8c12b5d21e",
+      "bytes": 23245
+    },
+    {
+      "path": "report/README.md",
+      "sha256": "905ab320b6e9624435bbbe811d6bf53bb6d75ae044870c9ff3b4ee7e8e4137e3",
+      "bytes": 589
+    },
+    {
+      "path": "report/brewery_conflict_preliminary_report.tex",
+      "sha256": "d0d2e741bf06c1a247d2870efa6c2285c2aa7627054795eb9dc9d3fe58a77ae2",
+      "bytes": 19221
+    },
+    {
+      "path": "search/query_strings.txt",
+      "sha256": "e6810dca62ae43ace39e71717271b09d973608a781426eda2d5e1cc2a37b246c",
+      "bytes": 990
+    },
+    {
+      "path": "search/search_log.md",
+      "sha256": "489088691337d41f696e5db80208204a54193872d94942e1f779758abe6ee660",
+      "bytes": 4162
+    },
+    {
+      "path": "sources/legal_policy/LEGAL_2021_NL_biercafe-geluidsoverlast_L001.md",
+      "sha256": "0e4bc8263031dcd407b0d2deb526d388e1e1ad75d73c057202309ee9f6186549",
+      "bytes": 1320
+    },
+    {
+      "path": "sources/legal_policy/REPORT_2025_IT_molestia-movida-rumore_R007.md",
+      "sha256": "f93e32a0bc18441f65e0164ef0b28e7ef9e85fa3be08bc28de1ce1a4fb39b6cd",
+      "bytes": 1362
+    },
+    {
+      "path": "sources/metadata_only/ARTICLE_2017_US_neighborhood-change-pint_A001.md",
+      "sha256": "a53010ba5616dab2376d39fc235fe33daca9819ad9520eb927bfc9476e947170",
+      "bytes": 444
+    },
+    {
+      "path": "sources/metadata_only/ARTICLE_2018_US_craft-breweries-local-characteristics_A002.md",
+      "sha256": "2549329c4f0504cc9c60c666d2eed177cd38895da047d7cb2b47d6a3fc8f9090",
+      "bytes": 426
+    },
+    {
+      "path": "sources/metadata_only/ARTICLE_2021_MX_resistencias-cervecera-mexicali_A004.md",
+      "sha256": "d81b253b3d4c97c4502af7bd5fccab2bc2a6831e4b99f4005d426231334a3e61",
+      "bytes": 1412
+    },
+    {
+      "path": "sources/metadata_only/ARTICLE_2026_GLOBAL_small-breweries-footprints_A003.md",
+      "sha256": "3b827d68a99d359421bfb59156f2c73935d5aa3c535ee2172c3110f629798034",
+      "bytes": 985
+    },
+    {
+      "path": "sources/metadata_only/REPORT_2020_US_brewery-pollution-prevention_R001.md",
+      "sha256": "f8b1086ff0c889222c56137f228cebc4b38b104ff24f69d562a5464a850934e9",
+      "bytes": 485
+    },
+    {
+      "path": "sources/metadata_only/REPORT_2020_US_brewery-wastewater-bmps_R002.md",
+      "sha256": "f035fe885c077cf6a727ca808077f08bb03c7db77a4d67c108f016873d40ee9e",
+      "bytes": 479
+    },
+    {
+      "path": "sources/news/NEWS_2017_AR_boom-cervecerias-ruidos_N007.md",
+      "sha256": "1ef38d2614dc02fb7190dc4c92c7c3cd6f6fd8e71589eb4f8b2c8efce984040f",
+      "bytes": 1300
+    },
+    {
+      "path": "sources/news/NEWS_2019_MX_constellation-mexicali-water_N005.md",
+      "sha256": "fc316c2c5ae402f81c4b7ab98a715fddce0896ea08dd51ed21d7ea5aee348b29",
+      "bytes": 1337
+    },
+    {
+      "path": "sources/news/NEWS_2019_NL_davo-brouwerij-overlast_N010.md",
+      "sha256": "7fe8153a0bcd07b40c49a6410855064f4aa515146ce72a877db819526c9d2b54",
+      "bytes": 1302
+    },
+    {
+      "path": "sources/news/NEWS_2019_US_maui-clean-water-brewers_N004.md",
+      "sha256": "c7104beaa66bff090aa4636cf5a8aa170c7bb687b323531f8ad9478aff9f2876",
+      "bytes": 1029
+    },
+    {
+      "path": "sources/news/NEWS_2020_BR_belorizontina-contaminacao_N009.md",
+      "sha256": "179bac07eaac20462b9356013efcd95821eb3a92d02735cceeec08d3960dbcd6",
+      "bytes": 1331
+    },
+    {
+      "path": "sources/news/NEWS_2022_BR_delta-porto-alegre-noise_N008.md",
+      "sha256": "91fa71df384d603b1053991f334508585debb3973a5296f00e0b27c10570a62b",
+      "bytes": 1367
+    },
+    {
+      "path": "sources/news/NEWS_2024_AR_ogham-bariloche-noise_N006.md",
+      "sha256": "2ea013fc2bba4720e4b06cba48a69f6a1cd29ad6ea252580ec51c10153746e1e",
+      "bytes": 1475
+    },
+    {
+      "path": "sources/news/NEWS_2025_IN_chhatarpur-toxic-discharge_N002.md",
+      "sha256": "0a891677e6f715d8500a3ab84cdd65f78e424553ff0cb4ef778a3d1dde81b11b",
+      "bytes": 1060
+    },
+    {
+      "path": "sources/news/NEWS_2025_MX_heineken-yucatan-water_N001.md",
+      "sha256": "94cb2b32e20bcd65a95327cd0e3d9505bbfa00c693b28a0376405e5d15190366",
+      "bytes": 1084
+    },
+    {
+      "path": "sources/news/NEWS_2025_US_island-brewing-noise_N003.md",
+      "sha256": "b498c14878020ae05ab214655f99b7446bfed950ba4c2208929e19ea142f6e19",
+      "bytes": 1042
+    },
+    {
+      "path": "sources/news/NEWS_2026_DE_bier-aus-klaeranlage_N011.md",
+      "sha256": "03146efd8e89dfc63003d20c37d3811ce64fa457c6845350266e55dbbbfc1e21",
+      "bytes": 1271
+    },
+    {
+      "path": "sources/reports/REPORT_2019_IT_effluenti-industria-birra_R006.md",
+      "sha256": "177523f001b5d2a8ea1fc914d7824d37abd442fe2a1a615a8a7902a6ff2afa3c",
+      "bytes": 1383
+    },
+    {
+      "path": "sources/reports/REPORT_2023_FR_biere-impact-eau_R004.md",
+      "sha256": "59f5aa0f418f67e7f6b3daf58ce00ca3cba97982c73472d8ed4e3fd1bd68567f",
+      "bytes": 1431
+    },
+    {
+      "path": "sources/reports/REPORT_2024_BE_vlarem-microbrouwerijen-afvalwater_R005.md",
+      "sha256": "a8ac88ec34f40e183abb81026995ac6508a53b0192d2fd2666ef9e1dbfbc0317",
+      "bytes": 1199
+    },
+    {
+      "path": "sources/reports/REPORT_2024_FR_microbrasseries-eau-effluents_R003.md",
+      "sha256": "578406eeeb612955cd5281ddb449fb6b8c0edfdd25dbab964aa243bba6cd04d0",
+      "bytes": 1455
+    },
+    {
+      "path": "synthesis/gap_analysis.md",
+      "sha256": "e72b9d48c6e8848c5716b2125be3d4c36c1344b223161282e336571ec4ff1c2d",
+      "bytes": 1620
+    },
+    {
+      "path": "synthesis/knowledge_synthesis.md",
+      "sha256": "9c04d1cf782222f4fcffc5b3b231f73f26e2abdb38e3faec6efc7b5f74867ef2",
+      "bytes": 4101
+    },
+    {
+      "path": "tables/access_status_log.csv",
+      "sha256": "075160228e33581484d8c71a9b9ccad8e69fd889a182f0ab579261f172348adc",
+      "bytes": 5008
+    },
+    {
+      "path": "tables/conflict_evidence_table.csv",
+      "sha256": "5e760c6f0a0c5568bfd8b849bb28f769df9151eacecb8be970557779bb4054d3",
+      "bytes": 41890
+    },
+    {
+      "path": "tables/conflict_evidence_table_xlsx_not_created.txt",
+      "sha256": "998c6809da4a9abd1724d24b43de0badc823766efef609f6a26632af9444a9a3",
+      "bytes": 26
+    },
+    {
+      "path": "tables/deduplication_log.csv",
+      "sha256": "b0daa7f932b529ba13473f58e539d449f5f98fe848e95a297bae562b9cdc9e24",
+      "bytes": 2968
+    },
+    {
+      "path": "tables/multilingual_translation_table.csv",
+      "sha256": "3dec8a6bf4a462f4349fc09c34ac0a884afb59889738d12fa934df2e01eeebbf",
+      "bytes": 13405
+    },
+    {
+      "path": "tables/source_inventory.csv",
+      "sha256": "712cf4c45bb15ea512e4f8d35754563c251f0e4c8471e1840d8a97fbc60e260e",
+      "bytes": 12616
+    }
+  ]
+}

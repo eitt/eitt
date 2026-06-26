@@ -1,0 +1,202 @@
+\documentclass[man,12pt]{apa7}
+
+% Overleaf-ready preliminary synthesis.
+% Compile with: pdflatex -> bibtex -> pdflatex -> pdflatex.
+
+\usepackage[american]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{csquotes}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage{threeparttable}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning,shapes.geometric,fit}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{apacite}
+\usepackage{microtype}
+
+% Colorblind-safe Okabe--Ito palette, kept deliberately restrained.
+\definecolor{oiBlue}{HTML}{0072B2}
+\definecolor{oiSky}{HTML}{56B4E9}
+\definecolor{oiGreen}{HTML}{009E73}
+\definecolor{oiOrange}{HTML}{E69F00}
+\definecolor{oiVermillion}{HTML}{D55E00}
+\definecolor{oiPurple}{HTML}{CC79A7}
+\definecolor{oiGrey}{HTML}{666666}
+\definecolor{softPanel}{HTML}{F7F7F7}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=oiBlue,
+  citecolor=oiBlue,
+  urlcolor=oiBlue,
+  pdftitle={A Preliminary Corpus-Based Report on Brewery-Related Environmental Conflicts},
+  pdfauthor={Leonardo Talero}
+}
+
+\title{A Preliminary Corpus-Based Synthesis of Brewery-Related Environmental Conflicts and Justice Concerns}
+\shorttitle{Preliminary Brewery Conflict Corpus Synthesis}
+\author{Leonardo Talero}
+\affiliation{Independent preliminary desk review}
+\authornote{This manuscript presents a preliminary desk-based synthesis of a small documented corpus of news articles, scholarly records, government guidance, legal/policy records, industry/context records, and metadata-only source records. It is not a systematic review, legal determination, environmental impact assessment, or field study. The writing intentionally remains cautious because several records require full-text, administrative, or legal-record follow-up. Correspondence concerning this preliminary work may be directed to Leonardo Talero.}
+
+\abstract{
+A small documented corpus is summarized on environmental conflicts and justice concerns involving breweries, craft breweries, beer-related water use, brewery wastewater, land-use disputes, noise conflicts, public-health contamination, and neighborhood change. The corpus currently contains 23 records: 11 news records, three scholarly-article records, four government-record records, two industry/context records, two legal-case records, and one metadata-only record. Language coverage includes English, Spanish, Portuguese, French, Dutch, German, and Italian. The evidence base is best treated as a structured exploratory inventory rather than as a comprehensive or conclusive review. The most common coded conflict types in the corpus are odor/noise/traffic disputes, water-extraction or water-competition concerns, and wastewater/effluent issues. Several records document craft-brewery conflicts specifically, including neighborhood noise disputes in Argentina and Brazil and a public-health contamination case in Brazil. The analysis describes the corpus construction method, summarizes cautious patterns, and identifies follow-up needs, especially legal dockets, agency records, full-text scholarly access, and community-authored materials.
+}
+
+\keywords{brewery, craft beer, environmental conflict, wastewater, water use, environmental justice, preliminary corpus, multilingual evidence}
+
+\begin{document}
+\maketitle
+
+\section{Introduction}
+
+Breweries and craft breweries are often discussed in relation to local economic development, tourism, urban revitalization, and cultural identity. A narrower but important question concerns situations where breweries, brewery supply chains, or brewery-adjacent activities are implicated in environmental conflict, public-health concerns, land-use disputes, wastewater management problems, water-access anxieties, or neighborhood justice claims. No beer products are evaluated or recommended. The focus is a cautious, source-grounded synthesis of a small research corpus assembled for exploratory analysis.
+
+The current corpus includes examples of reported water conflict around large brewery projects in Mexico, wastewater and contamination concerns in India and Brazil, legal and neighborhood noise disputes involving craft breweries or beer venues in the United States, Argentina, Brazil, and the Netherlands, and scholarly discussion of craft breweries in relation to neighborhood change and gentrification. Examples include water-conflict reporting on Heineken in Yucat\'an \cite{NEWS_2025_MX_heineken-yucatan-water_N001}, the Constellation Brands/Mexicali conflict \cite{NEWS_2019_MX_constellation-mexicali-water_N005,ARTICLE_2021_MX_resistencias-cervecera-mexicali_A004}, a National Green Tribunal-related brewery discharge report in India \cite{NEWS_2025_IN_chhatarpur-toxic-discharge_N002}, craft-brewery noise disputes in Carpinteria, Bariloche, Buenos Aires, and Porto Alegre \cite{NEWS_2025_US_island-brewing-noise_N003,NEWS_2024_AR_ogham-bariloche-noise_N006,NEWS_2017_AR_boom-cervecerias-ruidos_N007,NEWS_2022_BR_delta-porto-alegre-noise_N008}, and the Brazilian Backer/Belorizontina contamination case \cite{NEWS_2020_BR_belorizontina-contaminacao_N009}. Scholarly, government, legal, and contextual records provide broader context for neighborhood change, wastewater, environmental footprints, water reuse, and nightlife-noise governance \cite{ARTICLE_2017_US_neighborhood-change-pint_A001,ARTICLE_2018_US_craft-breweries-local-characteristics_A002,ARTICLE_2026_GLOBAL_small-breweries-footprints_A003,REPORT_2020_US_brewery-pollution-prevention_R001,REPORT_2020_US_brewery-wastewater-bmps_R002,REPORT_2024_FR_microbrasseries-eau-effluents_R003,REPORT_2023_FR_biere-impact-eau_R004,LEGAL_2021_NL_biercafe-geluidsoverlast_L001,REPORT_2024_BE_vlarem-microbrouwerijen-afvalwater_R005,NEWS_2026_DE_bier-aus-klaeranlage_N011,REPORT_2019_IT_effluenti-industria-birra_R006,REPORT_2025_IT_molestia-movida-rumore_R007}.
+
+\section{Purpose and Scope}
+
+The purpose of this preliminary synthesis is descriptive and methodological. It explains how the preliminary corpus was organized, summarizes patterns that appear in the coded records, and identifies gaps requiring further work. The corpus is not large enough to support claims about prevalence, causality, or sector-wide impacts. It is also not designed to compare breweries, rank harms, or infer intent. The appropriate interpretation is that these records point to areas where brewery-related economic activity intersects with water governance, wastewater management, land-use policy, public health, and neighborhood life.
+
+The corpus covers records from 2017 to 2026, with geographic examples from Mexico, the United States, India, Argentina, Brazil, the Netherlands, Belgium, Germany, France, Italy, and global/contextual sources. It includes English, Spanish, Portuguese, French, Dutch, German, and Italian records, with original-language titles and short excerpts retained alongside English equivalents for coding and navigation. The multilingual component is important because several brewery-related conflicts, especially in Latin America, are documented most directly in Spanish or Portuguese sources.
+
+\section{Materials and Methods}
+
+\subsection{Corpus design}
+
+The corpus was assembled as a desk-based evidence inventory using news articles, scholarly records, government guidance, public-policy records, and metadata-only records when full text was not legally or technically retrievable. The source set was screened for relevance to beer, brewing, breweries, brewery supply chains, craft breweries, brewery wastewater, brewery siting, neighborhood impacts, public-health contamination, or water conflict. Consumer reviews, beer rankings, promotional brewery pages, tasting notes, and product recommendations were excluded unless they directly documented a conflict or policy dispute.
+
+\subsection{Search strategy}
+
+Searches combined brewery-related terms with conflict, injustice, and environmental-mechanism terms. English searches included combinations such as brewery wastewater, pollution complaint, community conflict, water use, drought, zoning dispute, noise, traffic, gentrification, and displacement. Multilingual searches added Spanish and Portuguese terms for craft breweries, neighbors, noise, contamination, water, and conflict. French, Dutch, German, and Italian searching was added after the initial multilingual extension. Dutch searching produced the strongest additional conflict-specific material. French, German, and Italian results were retained mainly where they added water, effluent, drought, or nightlife-noise context relevant to possible craft-beer conflicts.
+
+\subsection{Source handling and access rules}
+
+The corpus follows a conservative access approach. Sources were not downloaded when doing so could bypass paywalls, login walls, or access restrictions. Several open-PDF URLs were identified, but automated retrieval returned access or tunnel errors in the working environment. Those records were preserved as metadata-only entries with full-text follow-up notes. News pages and uncertain-access sources were represented as Markdown metadata/evidence records rather than full article captures. This access constraint affects the certainty of several coded rows and is explicitly recorded in the source inventory, access-status log, and evidence table.
+
+\subsection{Coding}
+
+Each record was coded using a controlled vocabulary for source type, conflict type, injustice type, environmental mechanism, severity, confidence, full-text access status, and download status. Coding was intentionally conservative. Abstract-only or metadata-only records were not coded as high confidence unless the visible metadata itself supported a specific claim. For multilingual records, the original title and original-language evidence excerpt were retained, and an English equivalent was added for navigation and coding.
+
+\begin{figure}[t]
+\centering
+\begin{tikzpicture}[
+  node distance=10mm,
+  every node/.style={font=\small},
+  step/.style={draw=oiBlue, rounded corners, fill=softPanel, thick, align=center, minimum width=30mm, minimum height=9mm},
+  arrow/.style={-{Latex[length=2mm]}, thick, draw=oiGrey}
+]
+\node[step] (search) {Search\\English, Spanish, Portuguese};
+\node[step, right=of search] (screen) {Screen\\relevance and access};
+\node[step, right=of screen] (code) {Code\\controlled vocabulary};
+\node[step, below=of code] (translate) {Retain original\\and English equivalent};
+\node[step, left=of translate] (tables) {Tables\\CSV metadata};
+\node[step, left=of tables] (synth) {Cautious synthesis\\and gaps};
+\draw[arrow] (search) -- (screen);
+\draw[arrow] (screen) -- (code);
+\draw[arrow] (code) -- (translate);
+\draw[arrow] (translate) -- (tables);
+\draw[arrow] (tables) -- (synth);
+\end{tikzpicture}
+\caption{Simplified workflow used to assemble the preliminary corpus. Colors use a restrained, colorblind-safe palette.}
+\label{fig:workflow}
+\end{figure}
+
+\section{Corpus Description}
+
+Table~\ref{tab:composition} summarizes the current corpus composition. The counts should be interpreted as the composition of this preliminary corpus, not as estimates of the true distribution of brewery-related conflicts.
+
+\begin{table}[t]
+\centering
+\caption{Preliminary corpus composition}
+\label{tab:composition}
+\begin{threeparttable}
+\begin{tabular}{llr}
+\toprule
+Category & Level & Count \\
+\midrule
+Source type & News & 11 \\
+Source type & Scholarly article & 3 \\
+Source type & Government record & 4 \\
+Source type & Industry/context record & 2 \\
+Source type & Legal case & 2 \\
+Source type & Metadata-only & 1 \\
+\addlinespace
+Original language & English & 9 \\
+Original language & Spanish & 4 \\
+Original language & Portuguese & 2 \\
+Original language & French & 2 \\
+Original language & Dutch & 3 \\
+Original language & German & 1 \\
+Original language & Italian & 2 \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\small
+\item Counts reflect the coded corpus after multilingual extension. They are not prevalence estimates.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+
+Table~\ref{tab:conflict-types} summarizes coded conflict types. Several records could plausibly fit more than one category, but each row was assigned a primary controlled-vocabulary code to maintain a simple table structure.
+
+\begin{table}[t]
+\centering
+\caption{Primary conflict types coded in the preliminary corpus}
+\label{tab:conflict-types}
+\begin{tabular}{lr}
+\toprule
+Primary conflict type & Count \\
+\midrule
+Odor, noise, or traffic & 7 \\
+Water extraction or competition & 4 \\
+Wastewater or effluent & 6 \\
+Gentrification or displacement & 2 \\
+Contamination or pollution & 1 \\
+Regulatory noncompliance & 1 \\
+Public health & 1 \\
+Climate, energy, or emissions & 1 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{Preliminary Observations}
+
+\subsection{Water access and brewery siting}
+
+Water-access concerns appear most clearly in the Mexican records. The Yucat\'an/Heineken record documents reported Maya community concerns about groundwater extraction, consultation, and wastewater risks in a karst aquifer region \cite{NEWS_2025_MX_heineken-yucatan-water_N001}. The Mexicali records focus on opposition to the Constellation Brands brewery project in a water-stressed context \cite{NEWS_2019_MX_constellation-mexicali-water_N005,ARTICLE_2021_MX_resistencias-cervecera-mexicali_A004}. These sources suggest that brewery projects can become flashpoints when communities perceive water allocation, consent, or drought vulnerability as unresolved. However, additional agency records, permit files, and community-authored sources are needed before drawing firmer conclusions about hydrological impacts or procedural compliance.
+
+\subsection{Wastewater, effluent, and contamination}
+
+Wastewater and effluent concerns appear in both case-specific and contextual records. The India record describes National Green Tribunal attention to alleged toxic discharge from a brewery, including resident concerns about crops, odors, and water sources \cite{NEWS_2025_IN_chhatarpur-toxic-discharge_N002}. Government and technical guidance from the United States, France, Flanders, and Italy provides background on why brewery and microbrewery wastewater can stress sewer systems, treatment plants, and environmental management systems \cite{REPORT_2020_US_brewery-pollution-prevention_R001,REPORT_2020_US_brewery-wastewater-bmps_R002,REPORT_2024_FR_microbrasseries-eau-effluents_R003,REPORT_2024_BE_vlarem-microbrouwerijen-afvalwater_R005,REPORT_2019_IT_effluenti-industria-birra_R006}. The Brazilian Backer/Belorizontina record is coded separately as a public-health and chemical-contamination case because it concerns contamination in beer production and reported health consequences \cite{NEWS_2020_BR_belorizontina-contaminacao_N009}. Together, these records support the modest claim that brewery wastewater and water quality can become conflict mechanisms, but case-specific environmental measurements remain limited in the corpus.
+
+\subsection{Craft breweries and neighborhood disputes}
+
+Craft-brewery, brewery-pub, and beer-venue conflicts in the corpus are mainly noise, nightlife, odor, and land-use disputes. The Carpinteria case reports litigation involving live music, neighbors, a brewery, and municipal enforcement \cite{NEWS_2025_US_island-brewing-noise_N003}. Spanish-language records from Argentina document complaints involving craft-brewery noise, sidewalk occupation, vibrations, odors, and alleged municipal inaction \cite{NEWS_2024_AR_ogham-bariloche-noise_N006,NEWS_2017_AR_boom-cervecerias-ruidos_N007}. A Portuguese-language record from Porto Alegre documents a court conflict between residents and Cervejaria Delta in the 4th District \cite{NEWS_2022_BR_delta-porto-alegre-noise_N008}. Dutch records add a brewery-pub nuisance case in Deventer and an administrative-law beer-caf\'e noise/permit dispute \cite{NEWS_2019_NL_davo-brouwerij-overlast_N010,LEGAL_2021_NL_biercafe-geluidsoverlast_L001}. These examples should not be generalized to all craft breweries, but they show how craft-brewery growth can intersect with nighttime economies, licensing, zoning, and residents' everyday environmental conditions.
+
+\subsection{Neighborhood change and displacement risk}
+
+Two scholarly records address craft breweries and neighborhood change in the United States \cite{ARTICLE_2017_US_neighborhood-change-pint_A001,ARTICLE_2018_US_craft-breweries-local-characteristics_A002}. The appropriate interpretation is careful: these records do not establish that breweries alone cause displacement. Rather, they situate craft breweries within wider urban redevelopment and gentrification dynamics and suggest that planners should consider resident protections where brewery-led or brewery-associated revitalization is occurring. This is an area where more peer-reviewed work, local housing data, and community accounts would be needed.
+
+\subsection{Regulatory and legal-policy intersections}
+
+The corpus also includes a record on craft breweries participating in a U.S. Supreme Court water-pollution case as amici concerned with Clean Water Act protections \cite{NEWS_2019_US_maui-clean-water-brewers_N004}. This record differs from local nuisance or pollution allegations: breweries appear as stakeholders in broader water-protection policy rather than as the alleged source of harm. This distinction is important because the corpus contains heterogeneous relationships between breweries and environmental conflict: breweries may be regulated actors, alleged polluters, affected water users, community-facing nightlife venues, or policy advocates.
+
+\section{Limitations}
+
+The synthesis remains preliminary. It is based on a small, purposive corpus and should not be read as a systematic review. Several records are news-only, metadata-only, abstract-only, or landing-page-only. Some full texts were not downloaded because automated retrieval failed or because access was uncertain. The corpus does not include field interviews, water testing, legal pleadings, complete administrative dockets, or a full multilingual database search. French, German, and Italian coverage remains more contextual than case-specific, and Dutch coverage is still limited to a few records. The English equivalents for Spanish, Portuguese, French, Dutch, German, and Italian records are included for research navigation and coding, but the original-language sources should be consulted for exact wording and any formal quotation.
+
+\section{Conclusion}
+
+The preliminary corpus suggests that possible conflicts around craft beer and brewing often appear around water allocation, wastewater and effluent management, public-health contamination, neighborhood noise and nightlife disputes, and craft-brewery associations with urban change. These observations are best treated as starting points for further research. More robust claims would require additional legal records, environmental monitoring data, agency files, full-text scholarly access, and community-authored documentation. The most useful immediate next step is not to amplify conclusions, but to improve verification and coverage.
+
+\bibliographystyle{apacite}
+\bibliography{../bibliography/references}
+
+\end{document}

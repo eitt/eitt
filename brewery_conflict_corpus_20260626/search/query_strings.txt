@@ -1,0 +1,10 @@
+("craft brewery" OR microbrewery OR brewpub OR "artisanal beer") AND ("environmental justice" OR "environmental racism" OR conflict OR dispute OR protest) AND (water OR wastewater OR contamination OR zoning)
+(brewery OR breweries OR "beer industry") AND ("water use" OR groundwater OR aquifer OR drought OR wastewater) AND (community OR residents OR Indigenous OR racism OR injustice)
+("brewing wastewater" OR "brewery effluent") AND (pollution OR contamination OR regulation OR complaint OR treatment)
+("craft beer" OR brewery) AND (gentrification OR displacement OR zoning OR "land use") AND (neighborhood OR residents OR community)
+brasserie artisanale riverains bruit conflit bière pollution eau
+Brauerei Craft Beer Nachbarn Lärm Konflikt Wasser Abwasser
+birrificio artigianale residenti rumore conflitto acqua inquinamento
+craft brouwerij omwonenden geluid conflict water vervuiling
+brouwerij omwonenden geluidsoverlast rechtszaak
+microbrouwerij afvalwater VLAREM bedrijfsafvalwater
