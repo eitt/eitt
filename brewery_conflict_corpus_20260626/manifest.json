@@ -1,0 +1,328 @@
+{
+  "created": "2026-06-26",
+  "corpus_directory": "brewery_conflict_corpus_20260626",
+  "source_records": [
+    {
+      "source_id": "NEWS_2025_MX_heineken-yucatan-water_N001",
+      "path": "sources/news/NEWS_2025_MX_heineken-yucatan-water_N001.md",
+      "source_url": "https://www.theguardian.com/global-development/2025/oct/04/maya-heineken-brewery-yucatan-mexico-cenote-ring",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "landing_page_only",
+      "download_status": "metadata_only_capture_blocked",
+      "sha256": "94cb2b32e20bcd65a95327cd0e3d9505bbfa00c693b28a0376405e5d15190366",
+      "limitations": "News page represented as metadata/evidence summary only; no full-page PDF capture stored.",
+      "original_language": "English"
+    },
+    {
+      "source_id": "NEWS_2025_IN_chhatarpur-toxic-discharge_N002",
+      "path": "sources/news/NEWS_2025_IN_chhatarpur-toxic-discharge_N002.md",
+      "source_url": "https://timesofindia.indiatimes.com/city/bhopal/ngt-orders-probe-into-toxic-discharge-from-chhatarpur-brewery/articleshow/124729061.cms",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "landing_page_only",
+      "download_status": "metadata_only_capture_blocked",
+      "sha256": "0a891677e6f715d8500a3ab84cdd65f78e424553ff0cb4ef778a3d1dde81b11b",
+      "limitations": "News page represented as metadata/evidence summary only; allegations require official case-file confirmation.",
+      "original_language": "English"
+    },
+    {
+      "source_id": "NEWS_2025_US_island-brewing-noise_N003",
+      "path": "sources/news/NEWS_2025_US_island-brewing-noise_N003.md",
+      "source_url": "https://www.noozhawk.com/carpinteria-residents-sue-city-island-brewing-co-over-live-music/",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "landing_page_only",
+      "download_status": "metadata_only_capture_blocked",
+      "sha256": "b498c14878020ae05ab214655f99b7446bfed950ba4c2208929e19ea142f6e19",
+      "limitations": "News page represented as metadata/evidence summary only; court filings would strengthen legal outcome coding.",
+      "original_language": "English"
+    },
+    {
+      "source_id": "NEWS_2019_US_maui-clean-water-brewers_N004",
+      "path": "sources/news/NEWS_2019_US_maui-clean-water-brewers_N004.md",
+      "source_url": "https://www.fooddive.com/news/how-a-supreme-court-case-about-water-pollution-could-impact-craft-beer/565176/",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "landing_page_only",
+      "download_status": "metadata_only_capture_blocked",
+      "sha256": "c7104beaa66bff090aa4636cf5a8aa170c7bb687b323531f8ad9478aff9f2876",
+      "limitations": "Included because it documents brewery participation in a water-pollution legal conflict, not a consumer beer recommendation.",
+      "original_language": "English"
+    },
+    {
+      "source_id": "ARTICLE_2017_US_neighborhood-change-pint_A001",
+      "path": "sources/metadata_only/ARTICLE_2017_US_neighborhood-change-pint_A001.md",
+      "source_url": "https://jmbarajas.com/publication/beer-chapter/beer-chapter.pdf",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "unknown",
+      "download_status": "metadata_only_full_text_needed",
+      "sha256": "a53010ba5616dab2376d39fc235fe33daca9819ad9520eb927bfc9476e947170",
+      "limitations": "PDF URL identified but not downloaded because automated retrieval returned a 403/tunnel error in this environment; coding uses visible metadata/snippets and needs direct full-text confirmation.",
+      "original_language": "English"
+    },
+    {
+      "source_id": "ARTICLE_2018_US_craft-breweries-local-characteristics_A002",
+      "path": "sources/metadata_only/ARTICLE_2018_US_craft-breweries-local-characteristics_A002.md",
+      "source_url": "https://arxiv.org/pdf/1802.03140",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "unknown",
+      "download_status": "metadata_only_full_text_needed",
+      "sha256": "2549329c4f0504cc9c60c666d2eed177cd38895da047d7cb2b47d6a3fc8f9090",
+      "limitations": "PDF URL identified but not downloaded because automated retrieval returned a 403/tunnel error in this environment; coding uses visible metadata/snippets and needs direct full-text confirmation.",
+      "original_language": "English"
+    },
+    {
+      "source_id": "REPORT_2020_US_brewery-pollution-prevention_R001",
+      "path": "sources/metadata_only/REPORT_2020_US_brewery-pollution-prevention_R001.md",
+      "source_url": "https://portal.ct.gov/-/media/DEEP/p2/business_industry/Breweries/P2-Brewery-Factsheet_Oct2020EPA.pdf",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "unknown",
+      "download_status": "metadata_only_full_text_needed",
+      "sha256": "f8b1086ff0c889222c56137f228cebc4b38b104ff24f69d562a5464a850934e9",
+      "limitations": "PDF URL identified but not downloaded because automated retrieval returned a 403/tunnel error in this environment; coding uses visible metadata/snippets and needs direct full-text confirmation.",
+      "original_language": "English"
+    },
+    {
+      "source_id": "REPORT_2020_US_brewery-wastewater-bmps_R002",
+      "path": "sources/metadata_only/REPORT_2020_US_brewery-wastewater-bmps_R002.md",
+      "source_url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/2020-01/wastewater-bmps-breweries.pdf",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "unknown",
+      "download_status": "metadata_only_full_text_needed",
+      "sha256": "f035fe885c077cf6a727ca808077f08bb03c7db77a4d67c108f016873d40ee9e",
+      "limitations": "PDF URL identified but not downloaded because automated retrieval returned a 403/tunnel error in this environment; coding uses visible metadata/snippets and needs direct full-text confirmation.",
+      "original_language": "English"
+    },
+    {
+      "source_id": "ARTICLE_2026_GLOBAL_small-breweries-footprints_A003",
+      "path": "sources/metadata_only/ARTICLE_2026_GLOBAL_small-breweries-footprints_A003.md",
+      "source_url": "https://www.mdpi.com/2076-3298/13/3/164",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "unknown",
+      "download_status": "metadata_only_full_text_needed",
+      "sha256": "3b827d68a99d359421bfb59156f2c73935d5aa3c535ee2172c3110f629798034",
+      "limitations": "Full text not downloaded; table coding is based on metadata and abstract/snippet only. Full text access is needed for confirmation.",
+      "original_language": "English"
+    },
+    {
+      "source_id": "NEWS_2019_MX_constellation-mexicali-water_N005",
+      "path": "sources/news/NEWS_2019_MX_constellation-mexicali-water_N005.md",
+      "source_url": "https://dialogue.earth/es/agua/26653-en-baja-california-escogen-entre-agua-y-cerveza/",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "landing_page_only",
+      "download_status": "metadata_only_capture_blocked",
+      "sha256": "fc316c2c5ae402f81c4b7ab98a715fddce0896ea08dd51ed21d7ea5aee348b29",
+      "limitations": "Spanish-language source; original title/excerpt and English equivalent included. Page represented as metadata/evidence Markdown only.",
+      "original_language": "Spanish"
+    },
+    {
+      "source_id": "ARTICLE_2021_MX_resistencias-cervecera-mexicali_A004",
+      "path": "sources/metadata_only/ARTICLE_2021_MX_resistencias-cervecera-mexicali_A004.md",
+      "source_url": "https://revistas.usantotomas.edu.co/index.php/campos/article/view/7665",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "abstract_only",
+      "download_status": "metadata_only_full_text_needed",
+      "sha256": "d81b253b3d4c97c4502af7bd5fccab2bc2a6831e4b99f4005d426231334a3e61",
+      "limitations": "Spanish scholarly record; full text not downloaded. Coding uses visible metadata/snippet and needs full-text confirmation.",
+      "original_language": "Spanish"
+    },
+    {
+      "source_id": "NEWS_2024_AR_ogham-bariloche-noise_N006",
+      "path": "sources/news/NEWS_2024_AR_ogham-bariloche-noise_N006.md",
+      "source_url": "https://baribache3000.com.ar/nota/1359/vecino-historico-de-bariloche-denuncia-danos-a-la-salud-por-ruidos-de-cerveceria-sin-habilitacion-adecuada/",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "landing_page_only",
+      "download_status": "metadata_only_capture_blocked",
+      "sha256": "2ea013fc2bba4720e4b06cba48a69f6a1cd29ad6ea252580ec51c10153746e1e",
+      "limitations": "Spanish-language craft brewery noise source; original title/excerpt and English equivalent included.",
+      "original_language": "Spanish"
+    },
+    {
+      "source_id": "NEWS_2017_AR_boom-cervecerias-ruidos_N007",
+      "path": "sources/news/NEWS_2017_AR_boom-cervecerias-ruidos_N007.md",
+      "source_url": "https://www.clarin.com/ciudades/cara-boom-cervecerias-crecen-quejas-ruidos-molestos_0_HJnVTnkIz.html",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "landing_page_only",
+      "download_status": "metadata_only_capture_blocked",
+      "sha256": "1ef38d2614dc02fb7190dc4c92c7c3cd6f6fd8e71589eb4f8b2c8efce984040f",
+      "limitations": "Spanish-language craft brewery source; limited snippet access lowers confidence.",
+      "original_language": "Spanish"
+    },
+    {
+      "source_id": "NEWS_2022_BR_delta-porto-alegre-noise_N008",
+      "path": "sources/news/NEWS_2022_BR_delta-porto-alegre-noise_N008.md",
+      "source_url": "https://www.jornaldocomercio.com/_conteudo/colunas/pensar_a_cidade/2022/05/846355-moradores-e-cervejaria-no-4-distrito-entram-em-conflito.html",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "landing_page_only",
+      "download_status": "metadata_only_capture_blocked",
+      "sha256": "91fa71df384d603b1053991f334508585debb3973a5296f00e0b27c10570a62b",
+      "limitations": "Portuguese-language craft brewery noise/legal conflict source with original and English equivalent.",
+      "original_language": "Portuguese"
+    },
+    {
+      "source_id": "NEWS_2020_BR_belorizontina-contaminacao_N009",
+      "path": "sources/news/NEWS_2020_BR_belorizontina-contaminacao_N009.md",
+      "source_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2020-01/ministerio-confirma-contaminacao-da-agua-na-producao-de-cervejas",
+      "access_date": "2026-06-26",
+      "full_text_access_status": "landing_page_only",
+      "download_status": "metadata_only_capture_blocked",
+      "sha256": "179bac07eaac20462b9356013efcd95821eb3a92d02735cceeec08d3960dbcd6",
+      "limitations": "Portuguese-language craft beer contamination source with original and English equivalent.",
+      "original_language": "Portuguese"
+    }
+  ],
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "7603ddad4b93dd072d42cd0300bc0dc32af4fe966d922833ba0e980f100b6c47",
+      "bytes": 1811
+    },
+    {
+      "path": "bibliography/references.bib",
+      "sha256": "df826b3f61867872f4be87aa88b218422a95f6a9917fc606ad76a8b7ab5135cc",
+      "bytes": 6005
+    },
+    {
+      "path": "bibliography/references.ris",
+      "sha256": "a680fa71450a57a8cf200c785279c8b801427e463433922dfa1e27477731c2d6",
+      "bytes": 5077
+    },
+    {
+      "path": "manifest.json",
+      "sha256": "71bb8ce8dfc84a0b598e41ada8ce921011d5e4a7fa50ea1cf2693b483ced0c6f",
+      "bytes": 15949
+    },
+    {
+      "path": "report/README.md",
+      "sha256": "905ab320b6e9624435bbbe811d6bf53bb6d75ae044870c9ff3b4ee7e8e4137e3",
+      "bytes": 589
+    },
+    {
+      "path": "report/brewery_conflict_preliminary_report.tex",
+      "sha256": "7bc5f8f14d5cecea90012874bbac0a00acd328942d4a1934e3e1551be9e47b7b",
+      "bytes": 17697
+    },
+    {
+      "path": "search/query_strings.txt",
+      "sha256": "f514b0c90c238c03d4661159784415ecd2fdb770f90d7b9e8aa1c8efa85b3176",
+      "bytes": 635
+    },
+    {
+      "path": "search/search_log.md",
+      "sha256": "fdd4ed434c20d36d83f569472697cbdfbc40d02e3df999c7187c0b22e15cc51b",
+      "bytes": 2837
+    },
+    {
+      "path": "sources/metadata_only/ARTICLE_2017_US_neighborhood-change-pint_A001.md",
+      "sha256": "a53010ba5616dab2376d39fc235fe33daca9819ad9520eb927bfc9476e947170",
+      "bytes": 444
+    },
+    {
+      "path": "sources/metadata_only/ARTICLE_2018_US_craft-breweries-local-characteristics_A002.md",
+      "sha256": "2549329c4f0504cc9c60c666d2eed177cd38895da047d7cb2b47d6a3fc8f9090",
+      "bytes": 426
+    },
+    {
+      "path": "sources/metadata_only/ARTICLE_2021_MX_resistencias-cervecera-mexicali_A004.md",
+      "sha256": "d81b253b3d4c97c4502af7bd5fccab2bc2a6831e4b99f4005d426231334a3e61",
+      "bytes": 1412
+    },
+    {
+      "path": "sources/metadata_only/ARTICLE_2026_GLOBAL_small-breweries-footprints_A003.md",
+      "sha256": "3b827d68a99d359421bfb59156f2c73935d5aa3c535ee2172c3110f629798034",
+      "bytes": 985
+    },
+    {
+      "path": "sources/metadata_only/REPORT_2020_US_brewery-pollution-prevention_R001.md",
+      "sha256": "f8b1086ff0c889222c56137f228cebc4b38b104ff24f69d562a5464a850934e9",
+      "bytes": 485
+    },
+    {
+      "path": "sources/metadata_only/REPORT_2020_US_brewery-wastewater-bmps_R002.md",
+      "sha256": "f035fe885c077cf6a727ca808077f08bb03c7db77a4d67c108f016873d40ee9e",
+      "bytes": 479
+    },
+    {
+      "path": "sources/news/NEWS_2017_AR_boom-cervecerias-ruidos_N007.md",
+      "sha256": "1ef38d2614dc02fb7190dc4c92c7c3cd6f6fd8e71589eb4f8b2c8efce984040f",
+      "bytes": 1300
+    },
+    {
+      "path": "sources/news/NEWS_2019_MX_constellation-mexicali-water_N005.md",
+      "sha256": "fc316c2c5ae402f81c4b7ab98a715fddce0896ea08dd51ed21d7ea5aee348b29",
+      "bytes": 1337
+    },
+    {
+      "path": "sources/news/NEWS_2019_US_maui-clean-water-brewers_N004.md",
+      "sha256": "c7104beaa66bff090aa4636cf5a8aa170c7bb687b323531f8ad9478aff9f2876",
+      "bytes": 1029
+    },
+    {
+      "path": "sources/news/NEWS_2020_BR_belorizontina-contaminacao_N009.md",
+      "sha256": "179bac07eaac20462b9356013efcd95821eb3a92d02735cceeec08d3960dbcd6",
+      "bytes": 1331
+    },
+    {
+      "path": "sources/news/NEWS_2022_BR_delta-porto-alegre-noise_N008.md",
+      "sha256": "91fa71df384d603b1053991f334508585debb3973a5296f00e0b27c10570a62b",
+      "bytes": 1367
+    },
+    {
+      "path": "sources/news/NEWS_2024_AR_ogham-bariloche-noise_N006.md",
+      "sha256": "2ea013fc2bba4720e4b06cba48a69f6a1cd29ad6ea252580ec51c10153746e1e",
+      "bytes": 1475
+    },
+    {
+      "path": "sources/news/NEWS_2025_IN_chhatarpur-toxic-discharge_N002.md",
+      "sha256": "0a891677e6f715d8500a3ab84cdd65f78e424553ff0cb4ef778a3d1dde81b11b",
+      "bytes": 1060
+    },
+    {
+      "path": "sources/news/NEWS_2025_MX_heineken-yucatan-water_N001.md",
+      "sha256": "94cb2b32e20bcd65a95327cd0e3d9505bbfa00c693b28a0376405e5d15190366",
+      "bytes": 1084
+    },
+    {
+      "path": "sources/news/NEWS_2025_US_island-brewing-noise_N003.md",
+      "sha256": "b498c14878020ae05ab214655f99b7446bfed950ba4c2208929e19ea142f6e19",
+      "bytes": 1042
+    },
+    {
+      "path": "synthesis/gap_analysis.md",
+      "sha256": "b55c1bb932425040f0ab6ff41ce6f703f86d5b66f7a414af54ce0349efa7fd20",
+      "bytes": 1061
+    },
+    {
+      "path": "synthesis/knowledge_synthesis.md",
+      "sha256": "fd5c36011cd90236976a9fbabbca6d311910e72d67185609665d5810d554f80b",
+      "bytes": 3487
+    },
+    {
+      "path": "tables/access_status_log.csv",
+      "sha256": "e224d30554f119477cd3b3f1866fa99e6750bd8a11a629a21c695e039ef5d9a3",
+      "bytes": 3474
+    },
+    {
+      "path": "tables/conflict_evidence_table.csv",
+      "sha256": "529d79ed0e89a6953bcf21c12619c3d2506a58b8999244cb57e84adbe0315bf5",
+      "bytes": 28494
+    },
+    {
+      "path": "tables/conflict_evidence_table_xlsx_not_created.txt",
+      "sha256": "998c6809da4a9abd1724d24b43de0badc823766efef609f6a26632af9444a9a3",
+      "bytes": 26
+    },
+    {
+      "path": "tables/deduplication_log.csv",
+      "sha256": "282e5fe158eed2f0260e5aa4be6b60a3c6a56a46f87d8611e69be4978bb5c27d",
+      "bytes": 1782
+    },
+    {
+      "path": "tables/multilingual_translation_table.csv",
+      "sha256": "bc88c6f37071570872bf20394406192ea6f9ee236bfc9618f9f517f13a3d0875",
+      "bytes": 8597
+    },
+    {
+      "path": "tables/source_inventory.csv",
+      "sha256": "a4c0385232eed2415fd86f196aa096cade756da053a12cb3a20c5674cc122e85",
+      "bytes": 8420
+    }
+  ]
+}
