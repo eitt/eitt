@@ -68,7 +68,7 @@ Updated 19 November 2026 · 42 public repositories
 - [CocoApp](https://github.com/eitt/CocoApp) — Early Django application scaffold for the CocoApp cocoa research prototype.
 - [OPALO-Precios-Agropecuarios](https://github.com/eitt/OPALO-Precios-Agropecuarios) — README-only project outline for agricultural price forecasting with autoregressive models and neural networks.
 - [Oper_Libro](https://github.com/eitt/Oper_Libro) — Initial operations research book scaffold containing an empty notebook.
-- [Fin_Tech_Adoption](https://github.com/eitt/Fin_Tech_Adoption) — Empty placeholder repository for a fintech adoption project.
+- [Fin_Tech_Adoption](https://github.com/eitt/Fin_Tech_Adoption) — Initial project outline for fintech adoption, with research code and data still to be added.
 - [BendersDecomposition](https://github.com/eitt/BendersDecomposition) — Julia reference implementation of Benders decomposition for mixed-integer and stochastic programming, credited to Edward J. Xu's BendersOptim.
 - [2048-_-CafetoriumEdition](https://github.com/eitt/2048-_-CafetoriumEdition) — Earlier GitHub Pages site for the 2048 Cafetorium Edition project.
 - [2048-Cafetorium-Edition](https://github.com/eitt/2048-Cafetorium-Edition) — Another retained GitHub Pages site for the 2048 Cafetorium Edition project.
