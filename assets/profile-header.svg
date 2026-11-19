@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="250" viewBox="0 0 1100 250" role="img" aria-labelledby="title desc">
+  <title id="title">Leonardo H. Talero-Sarmiento</title>
+  <desc id="desc">Research and teaching in optimization, machine learning and statistics.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102C45"/>
+      <stop offset="1" stop-color="#0D4651"/>
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="250" rx="18" fill="url(#background)"/>
+  <path d="M820 0V250M900 0V250M980 0V250M1060 0V250M780 50H1100M780 130H1100M780 210H1100" fill="none" stroke="#86BCC5" stroke-opacity="0.12"/>
+  <path d="M800 188L860 145L915 166L970 100L1040 65" fill="none" stroke="#79C6BD" stroke-width="3" opacity="0.68"/>
+  <g fill="#B3DED4">
+    <circle cx="800" cy="188" r="5"/><circle cx="860" cy="145" r="5"/><circle cx="915" cy="166" r="5"/><circle cx="970" cy="100" r="5"/><circle cx="1040" cy="65" r="5"/>
+  </g>
+  <rect x="48" y="43" width="5" height="25" rx="2" fill="#D8BA7D"/>
+  <text x="68" y="62" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2.2" fill="#D8BA7D">RESEARCH &amp; TEACHING</text>
+  <text x="48" y="125" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#FFFFFF">Leonardo H. Talero-Sarmiento</text>
+  <text x="50" y="164" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#D3E6EC">Optimization · Machine learning · Statistics</text>
+  <text x="50" y="211" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#A8CFD3">Agriculture · Organizations · Social systems</text>
+</svg>
